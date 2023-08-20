@@ -6,5 +6,4 @@ CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Desig
 
 Here is our demo for Collaborative Fashion Design: 
 
-[![Video](https://github.com/horizonjohn/CrossGAI/tree/main/video/demo.png)](https://github.com/horizonjohn/CrossGAI/tree/main/video/demo1_x264.mp4)
-
+[![Video](https://github.com/horizonjohn/CrossGAI/blob/main/video/demo.png)](https://www.youtube.com/watch?v=UoJa98hTgEM)
